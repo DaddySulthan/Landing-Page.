@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+	
+	<head>
+		<title>Digital Game Battle Card</title>
+	</head>
+
+	<body bgcolor="#EDEDED">
+		<!-- Coding Header -->
+		<table align="center" width="1280" height="50" cellpadding="10" bgcolor="#000000">
+			<tr>
+				<td width="50" align="center"> <img src="file:///C:/Users/LENOVO/Downloads/shoob.png" width="90%"></td>
+				<td width="450"></td>
+				<td align="center"><font face="arial" color="#FFFFFF" size="5">Card List</font></td>
+				<td align="center"><font face="arial" color="#FFFFFF" size="5">Shop</font></td>
+				<td align="center"><font face="arial" color="#FFFFFF" size="5">Information</font></td>
+				<td align="center"><font face="arial" color="#FFFFFF" size="5">Profile</font></td>
+				<td align="center"><font face="arial" color="#FFFFFF" size="5">Login</font></td>
+			</tr>
+		</table>
+		<!-- Coding Tutup Header -->
+		<br>
+		<!-- Coding Badan Web -->
+		<table align="center" border="5" width="1280" cellpadding="10" bgcolor="#FFFFFF">
+			<tr>
+				<td width="200" height="125" align="center"> <img src="file:///C:/Users/LENOVO/Downloads/Card%20List.png" width="125" height="125"></td>
+				<td align="center"><font face="Comic Sans MS" color="black" size="16"> Card List </td>
+			</tr>
+			<tr>
+			</tr>
+			<!-- Konten -->
+			<tr>
+				<td> <img src="file:///C:/Users/LENOVO/Downloads/Freddie%20Special%20.gif" width="314" height="534"></td>
+				<td> <img src="file:///C:/Users/LENOVO/Downloads/Josuke%20Special%205%20daddy.gif" width="314" height="534"></td>
+				<td> <img src="file:///C:/Users/LENOVO/Downloads/nezuko%20daddy%20propertys.gif" width="314" height="534"></td>
+            </td>
+
+
+			</tr>
+			<tr>
+				<td width="426" height="25" align="center"><b> QUEEN Special Edition Card</td>
+				<td width="426" height="25" align="center"><b> Josuke Higashikata Tier 5</td>
+				<td width="426" height="25" align="center"><b> Nezuko Tier 5</td>
+			</tr>
+			<tr>
+				
+			<!-- Footer -->
+			<tr>
+				<td width="200" height="80" align="center"><b> LIMITED Time card, obtainable by doing QUEEN QUEST</td>
+				<td width="200" ><b> Obtainable by evolving 5 basic Tier 5 Josuke</td>
+				<td width="200" ><b> Obtainable by evolving 5 basic Tier 5 Nezuko</td>
+			</tr>
+		</table>
+		<!-- Coding Tutup Badan Web -->
+	</body>
+</html>
